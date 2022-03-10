@@ -1,12 +1,14 @@
-<h3 align="center">Hello world, this is Metis Teng 🌱 </h3>
+### Hello world, this is Metis Teng 🌱
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FF566F&width=480&lines=I+am+a+self-taught+front-end+Develop.;I+love+learning+new+stuffs.;Nice+to+meet+you!)](https://git.io/typing-svg)
+
+## About Me
 
 I'm a Taiwanese self-taught front-end developer base in Brisbane, Australia 🇹🇼 🇦🇺. I am open to freelance projects, if you have cool ideas in mind.
 
 <br>
 
-GET IN TOUCH:
+GET IN TOUCH
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/chao-chen-metis-teng/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](metis.teng@gmail.com)
 
@@ -14,6 +16,8 @@ GET IN TOUCH:
 
 ## Fun Facts of me
 
+🪕 Traditional trained Taiwanese and Chinese Classical musician
+<br>
 🏀 Basketball Enthuthist
 <br>
 ☕️ Caffeine addictive
@@ -41,11 +45,16 @@ GET IN TOUCH:
 <img align="left" width="24px" height="24px" src="./img/logo-xd.png" alt="Adobe XD">
 <img align="left" width="24px" height="24px" src="./img/logo-github.png" alt="Github">
 
-## My development breakdown
+<br>
+
+## My Github breakdown
 
 ### Highlighted Projects
 
 I took project-based learning process. Here are some of the highlights. Have Fun!
+<br>
+<br>
+
 <a href="https://github.com/greatmetis/greatmetis-rest-countries-api-with-color-theme-switcher">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=greatmetis-rest-countries-api-with-color-theme-switcher&theme=radical" />
 </a>
@@ -69,4 +78,16 @@ I took project-based learning process. Here are some of the highlights. Have Fun
 
 [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 
+### Github-readme-stats
+
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+### Heros and platforms I learnt from during career changing year(s).
+
+- [FreeCodeCamp](https://www.freecodecamp.org)
+- [Frontdnd Mentor](https://www.frontendmentor.io/profile/greatmetis)
+- [Hahow-動畫互動網頁特效入門（JS/CANVAS](https://hahow.in/courses/586fae97a8aae907000ce721/main)
+- [六角學院-Javascript 工程師養成直播班](https://www.hexschool.com/courses/js-training.html)
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
