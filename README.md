@@ -59,7 +59,7 @@ I took project-based learning process. Here are some of the highlights. Have Fun
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=greatmetis-rest-countries-api-with-color-theme-switcher&theme=radical" />
 </a>
 <a href="https://github.com/greatmetis/todolist-hexSchool">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=fortune-wheel&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=todolist-hexSchooll&theme=radical" />
 </a>
 <a href="https://github.com/greatmetis/woworoom-ecommerce">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=woworoom-ecommerce&theme=radical" />
