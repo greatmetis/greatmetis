@@ -40,6 +40,7 @@ GET IN TOUCH
 <img align="left" width="24px" height="24px" src="./img/logo-sass.png" alt="Sass">
 <img align="left" width="24px" height="24px" src="./img/logo-bs.png" alt="Bootstrap">
 <img align="left" width="24px" height="24px" src="./img/logo-vue.png" alt="Vue.js">
+<img align="left" width="24px" height="24px" src="./img/logo-react.png" alt="React">
 <img align="left" width="24px" height="24px" src="./img/logo-tailwind.png" alt="Tailwind Css">
 <img align="left" width="24px" height="24px" src="./img/logo-figma.png" alt="Figma">
 <img align="left" width="24px" height="24px" src="./img/logo-xd.png" alt="Adobe XD">
