@@ -57,8 +57,11 @@ I took project-based learning process. Here are some of the highlights. Have Fun
 <br>
 <br>
 
-<a href="https://github.com/greatmetis/greatmetis-rest-countries-api-with-color-theme-switcher">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=greatmetis-rest-countries-api-with-color-theme-switcher&theme=radical" />
+<a href="https://github.com/greatmetis/open-weather">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=open-weather&theme=radical" />
+</a>
+<a href="https://github.com/greatmetis/kidds-esport-game-maker">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=kidds-esport-game-maker&theme=radical" />
 </a>
 <a href="https://github.com/greatmetis/todolist-hexSchool">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=todolist-hexSchool&theme=radical" />
@@ -66,9 +69,7 @@ I took project-based learning process. Here are some of the highlights. Have Fun
 <a href="https://github.com/greatmetis/woworoom-ecommerce">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=woworoom-ecommerce&theme=radical" />
 </a>
-<a href="https://github.com/greatmetis/open-weather">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=open-weather&theme=radical" />
-</a>
+
 
 ### Most used languages
 
