@@ -14,23 +14,25 @@ GET IN TOUCH
 
 <br>
 
-## Fun Facts of me
+## Fun Facts About Me
 
-🪕 Traditional trained Taiwanese and Chinese Classical musician
+💻 Self-taught developer turned full-time engineer
 <br>
-🏀 Basketball Enthuthist
+🏀 Basketball enthusiast
 <br>
-☕️ Caffeine addictive
+☕️ Powered by caffeine
 <br>
-🥑 Vegan
+🥑 Vegetarian
 <br>
-🥁 Sound Maker
+🪕 Traditionally trained Taiwanese & Chinese classical musician
 
-### 2022 Goals
+### Current Focus
 
-🦉 Sleep 7 hours
+🦉 Getting 7+ hours of sleep.
 <br>
-📌 Become a experienced front-end dev in 2022.
+📌 Using AI to improve my workflow while continuing to master the fundamentals.
+<br>
+🤖 Building React projects and becoming a better software engineer.
 
 ### Languages and Tools
 
@@ -43,7 +45,6 @@ GET IN TOUCH
 <img align="left" width="24px" height="24px" src="./img/logo-react.png" alt="React">
 <img align="left" width="24px" height="24px" src="./img/logo-tailwind.png" alt="Tailwind Css">
 <img align="left" width="24px" height="24px" src="./img/logo-figma.png" alt="Figma">
-<img align="left" width="24px" height="24px" src="./img/logo-xd.png" alt="Adobe XD">
 <img align="left" width="24px" height="24px" src="./img/logo-github.png" alt="Github">
 
 <br>
@@ -65,8 +66,8 @@ I took project-based learning process. Here are some of the highlights. Have Fun
 <a href="https://github.com/greatmetis/woworoom-ecommerce">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=woworoom-ecommerce&theme=radical" />
 </a>
-<a href="https://github.com/greatmetis/funding-page-practice">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=funding-page-practice&theme=radical" />
+<a href="https://github.com/greatmetis/open-weather">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=open-weather&theme=radical" />
 </a>
 
 ### Most used languages
