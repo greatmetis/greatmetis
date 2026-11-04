@@ -57,23 +57,16 @@ I took project-based learning process. Here are some of the highlights. Have Fun
 <br>
 <br>
 
-<a href="https://github.com/greatmetis/open-weather">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=open-weather&theme=radical" />
-</a>
-<a href="https://github.com/greatmetis/kidds-esport-game-maker">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=kidds-esport-game-maker&theme=radical" />
-</a>
-<a href="https://github.com/greatmetis/todolist-hexSchool">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=todolist-hexSchool&theme=radical" />
-</a>
-<a href="https://github.com/greatmetis/woworoom-ecommerce">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=greatmetis&repo=woworoom-ecommerce&theme=radical" />
-</a>
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=greatmetis&repo=still-shop&theme=radical)](https://github.com/greatmetis/still-shop)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=greatmetis&repo=open-weather&theme=radical)](https://github.com/greatmetis/open-weather)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=greatmetis&repo=kidds-esport-game-maker&theme=radical)](https://github.com/greatmetis/kidds-esport-game-maker)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=greatmetis&repo=tafe_typical_tools&theme=radical)](https://github.com/greatmetis/tafe_typical_tools)
 
 
 ### Most used languages
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=greatmetis&theme=radical&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatmetis&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Acknowledgement
 
